@@ -23,7 +23,7 @@ Odot::Application.routes.draw do
   #       get 'short'
   #       post 'toggle'
   #     end
-  #
+  #gi
   #     collection do
   #       get 'sold'
   #     end
